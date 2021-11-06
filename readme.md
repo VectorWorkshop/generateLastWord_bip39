@@ -23,9 +23,9 @@ The people who authored and contributed to BIP39 and the reference client
 
 # Usage
 
-Create mnemonic using [wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/bip-0039-wordlists.md). Choose from there 11, 14, 17, 20, 23 words
+Create mnemonic using [wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/bip-0039-wordlists.md). Choose from there 11, 14, 17, 20, 23 words separated by spaces
 
-Clone or download .zip
+Clone or download .zip and extract the archive
 
 Open index.html with browser and press F12 to open devepoper tools
 
